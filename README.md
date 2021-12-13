@@ -1,4 +1,4 @@
-<h2> Hi, I'm GeekFreak!</h2>
+<h2> Hi, I'm Geek!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DhiyaneshGeek&show_icons=true&theme=radical" width="380">
 <p><em>Security Engineer and Bugbounty Hunter <br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
