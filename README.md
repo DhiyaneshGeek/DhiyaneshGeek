@@ -1,6 +1,6 @@
 <h2> Hi, I'm Geek Freak!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=DhiyaneshGeek&show_icons=true&theme=radical" width="380">
-<p><em>Security Researcher and Bugbounty Hunter<br>
+<p><em>Application Security Researcher and Bugbounty Hunter<br>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
