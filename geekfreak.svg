@@ -1,4 +1,4 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <circle cx="100" cy="100" r="140" fill="red" />
-  <text x="50%" y="120" text-anchor="middle" font-family="Arial" font-size="20" fill="white">You have been hacked!</text>
+  <text x="50%" y="120" text-anchor="middle" font-family="Arial" font-size="20" fill="white">POC for Injection!</text>
 </svg>
